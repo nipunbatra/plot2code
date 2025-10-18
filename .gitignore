@@ -1,0 +1,54 @@
+# Matplotlib repository (cloned for examples - users can re-download)
+matplotlib/
+
+# Temporary/recreated test images (generated during evaluation)
+recreated.png
+test.png
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Model checkpoints and weights (too large for git)
+checkpoints/
+models/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+tmp/
+temp/
+*.tmp
