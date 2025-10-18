@@ -1,0 +1,8 @@
+Metric,Zero-Shot,Fine-Tuned,Absolute Δ,Relative Δ
+SSIM (Visual),0.727 ± 0.160,0.772 ± 0.148,+0.045,+6.2%
+BLEU (Text),0.079 ± 0.060,0.079 ± 0.059,-0.000,-0.0%
+Edit Similarity,0.095 ± 0.030,0.059 ± 0.049,-0.036,-38.2%
+API Overlap,0.376 ± 0.254,0.468 ± 0.183,+0.092,+24.4%
+Code Score,0.173 ± 0.061,0.190 ± 0.049,+0.017,+9.6%
+Overall Score,0.450 ± 0.068,0.481 ± 0.071,+0.031,+6.9%
+Execution Success Rate,100.0%,100.0%,+0.0%,+0.0%
